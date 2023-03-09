@@ -10,10 +10,10 @@ using namespace PackedVector;
 
 ostream& XM_CALLCONV operator<<(ostream& os, FXMVECTOR v)
 {
-	XMFLOAT3 dest;
-	XMStoreFloat3(&dest, v);
+	XMFLOAT4 dest;
+	XMStoreFloat4(&dest, v);
 
-	os << "(" << dest.x << ", " << dest.y << ", " << dest.z << ")";
+	os << "(" << dest.x << ", " << dest.y << ", " << dest.z << ", " << dest.w << ")";
 	return os;
 }
 
@@ -48,5 +48,6 @@ int main()
 	cout << angleRadians << endl;
 	cout << angleDegrees << endl;
 
+	XMMATRIX
 
 }
