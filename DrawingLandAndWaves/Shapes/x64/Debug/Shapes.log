@@ -1,0 +1,9 @@
+﻿  d3dApp.cpp
+  d3dUtil.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+  ShapesApp.cpp
+  코드를 생성하고 있습니다...
+  Shapes.vcxproj -> E:\DX12Source\Code.Textures\Chapter 7 Drawing in Direct3D Part II\Shapes\x64\Debug\Shapes.exe
