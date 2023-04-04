@@ -1,0 +1,10 @@
+﻿  d3dApp.cpp
+  d3dUtil.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+  LitWavesApp.cpp
+  Waves.cpp
+  코드를 생성하고 있습니다...
+  LitWaves.vcxproj -> E:\DX12Source\Code.Textures\Chapter 8 Lighting\LitWaves\x64\Debug\LitWaves.exe
