@@ -1,0 +1,11 @@
+﻿  d3dApp.cpp
+  d3dUtil.cpp
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+  TexWavesApp.cpp
+  Waves.cpp
+  코드를 생성하고 있습니다...
+  TexWaves.vcxproj -> E:\DX12Source\Code.Textures\Chapter 9 Texturing\TexWaves\x64\Debug\TexWaves.exe
