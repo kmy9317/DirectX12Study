@@ -1,0 +1,13 @@
+﻿  d3dApp.cpp
+  d3dUtil.cpp
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+  GpuWaves.cpp
+  RenderTarget.cpp
+  SobelApp.cpp
+  SobelFilter.cpp
+  코드를 생성하고 있습니다...
+  SobelFilter.vcxproj -> D:\DX12Source\Code.Textures\Chapter 13 The Compute Shader\SobelFilter\x64\Debug\SobelFilter.exe
